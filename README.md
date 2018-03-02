@@ -1,2 +1,2 @@
-# trivia-group-project
+# Entertainment Trivia
 group project 1
