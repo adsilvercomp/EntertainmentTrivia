@@ -35,7 +35,7 @@ A trivia game with multiple entertainment categories and levels of difficulty. T
 
 *Aaron Silverstein*  *– Handled the Open Trivia API, built the UI, and wrote the game logic.*
 
-*Chae Kim* – * Handled backend logic for Firebase authentication.* 
+*Chae Kim* *– Handled backend logic for Firebase authentication.* 
 
 *Chandani Rana* – *Assisted with Front end development.* 
 
