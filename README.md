@@ -37,7 +37,7 @@ A trivia game with multiple entertainment categories and levels of difficulty. T
 
 *Chae Kim* *– Handled backend logic for Firebase authentication.* 
 
-*Chandani Rana* – *Assisted with Front end development.* 
+*Chandani Rana* – *Assisted with front end development.* 
 
 <br/>
 <br/>
